@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ node.title }}</title>
+    <link rel="stylesheet" href="@root/assets/css/main.css">
+    <link href="@root/assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
+    <link href="@root/assets/fontawesome/css/regular.css" rel="stylesheet" />
+    <link href="@root/assets/fontawesome/css/brands.css" rel="stylesheet" />
+</head>
+<body>
+    <nav>
+    {{ inc.menu }}
+    </nav>
+    <div class="content">
+    {{ node.html }}
+    </div>
+</body>
+</html>

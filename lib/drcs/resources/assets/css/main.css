@@ -1,0 +1,85 @@
+body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+  line-height: 1.25;
+}
+
+.content {
+  font-family: -apple-system, "Helvetica Neue";
+  font-size: 12pt;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  width: 75%;
+  align-self: center;
+}
+
+.row {
+  display: flex;
+}
+
+.side-col {
+  vertical-align: top;
+  width: 250px;
+  padding: 10px;
+}
+
+.main-col {
+  vertical-align: top;
+  flex: 100%;
+  padding-left: 10px;
+}
+
+img.headshot {
+  width: 200px;
+}
+
+p.contact-info {
+  margin-bottom: 10px;
+}
+
+ul.navbar {
+  list-style-type: none;
+  position: fixed; /* Set the navbar to fixed position */
+  top: 0; /* Position the navbar at the top of the page */
+  width: 100%; /* Full width */
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  overflow: hidden;
+  /* GitHub template users, customize this color and update the comment below. */
+  /* Legacy Black --  https://styleguide.kennesaw.edu/logo-guidelines/colors.php */
+  background-color: #2D2926;
+}
+
+li.navbar-item {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+li.navbar-item a {
+  display: block;
+  /* GitHub template users, customize this color and update the comment below. */
+  /* Hooty Hoo Gold --  https://styleguide.kennesaw.edu/logo-guidelines/colors.php */
+  color: #ffc629;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li.navbar-item a:hover {
+  /* GitHub template users, customize this color and update the comment below. */
+  /* Slap Rock Gray -- https://styleguide.kennesaw.edu/logo-guidelines/colors.php */
+  background-color: #B2B4B2;
+}
+
+table.member-list {
+  border: none;
+}
+
+td.member {
+  width: 20%;
+  padding: 10px;
+  vertical-align: top;
+}

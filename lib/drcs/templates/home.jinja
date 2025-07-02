@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>{{ node.title }}</title>
+    <link rel="stylesheet" href="@root/assets/css/main.css">
+    <link href="@root/assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
+    <link href="@root/assets/fontawesome/css/brands.css" rel="stylesheet" />
+    <link href="@root/assets/fontawesome/css/regular.css" rel="stylesheet" />
+</head>
+<body>
+    <nav>
+    {{ inc.menu }}
+    </nav>
+    <div class="content">
+        <div class="row">
+            <div class="side-col">
+                <div class="contact-info">
+                    {% if site.headshot %}
+                    <img class="headshot" src="{{ site.headshot }}"/><br/>
+                    {% else %}
+                    <img class="headshot" src="@root/images/elsa-small.jpg"/><br/>
+                    {% endif %}
+
+                    {% if site.professional_title %}
+                    <p><b>{{ site.professional_title }}</b></p>
+                    {% endif %}
+
+                    {% if site.professional_email %}
+                    <p><a href="mailto:{{ site.professional_email }}"><i class="fa-regular fa-envelope"></i> Professional</a></p>
+                    {% endif %}
+
+                    {% if site.personal_email %}
+                    <p><a href="mailto:{{ site.personal_email }}"><i class="fa-regular fa-envelope"></i> Personal</a></p>
+                    {% endif %}
+
+                    {% if site.linkedin %}
+                    <p><a href="{{ site.linkedin }}"><i class="fa-brands fa-linkedin"></i> {{ site.linkedin }}</a></p>
+                    {% endif %}
+
+                    {% if site.twitter_handle %}
+                    <p><a href="https://x.com/{{ site.twitter_handle }}"><i class="fa-brands fa-x-twitter"></i> @{{ site.twitter_handle }}</a></p>
+                    {% endif %}
+
+                    {% if site.github_org %}
+                    <p><a href="{{ site.github_org }}"><i class="fa fa-brands fa-github"></i> GitHub Org</a></i></p>
+                    {% endif %}
+
+                    {% if site.orcid_id %}
+                    <p><a href="https://orcid.org/{{ site.orcid_id }}"><i class="fa fa-brands fa-orcid"></i> ORCID </a></i></p>
+                    {% endif %}
+
+            </div>
+            </div>
+            <div class="main-col">
+                {{ node.html }}
+            </div>
+        </div>
+    </div>
+</body>
+</html>
