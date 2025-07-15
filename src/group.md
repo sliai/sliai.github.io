@@ -33,10 +33,6 @@ Resources:
 
 At present we have funding for one Ph.D. student.  For everyone else for the time being, we can only pay you with mentoring, training, and the deep satisfaction of knowing you're making a positive difference in the world.
 
-**Veterans!**
-
-Are you returning to the human race after serving in the military?  Really interested in the material but feeling overwhelmed and a bit terrified?  Maybe you got a degree and then didn't use it for 10 years and now you're sitting in class trying to remember how to take the gradient of a vector field.  I was in your shoes!  Whether you work with me or not, come see me if you want to chat.  I'd love to help.
-
 ### Owls of Athena
 
 The wisest of the owls.  These owls have earned the pinnacle of academic degrees, the doctorate.
@@ -177,7 +173,7 @@ What elf owls lack in size of knowledge they make up for in enthusiasm.
 <table class="member-list">
 <tr>
 <td class="member">
-    <a href="https://LUsseryDev.github.io/">
+    <a href="https://www.linkedin.com/in/liam-ussery-688078279/">
     <img alt="Liam Ussery" src="@root/images/elf-owl.jpg" height="150px" /><br />
     Liam Ussery<br/>
     </a>
