@@ -49,23 +49,10 @@ The wisest of the owls.  These owls have earned the pinnacle of academic degrees
     <td class="member">
         <a href="https://www.linkedin.com/in/john-c-0a02951/" target="_blank">
         <img alt="John Cortese, Ph.D." src="@root/images/john-cortese-head.jpeg" height="150px" /><br />
-        John Cortese<br/>
-    </a>
+        John Cortese</a> <br/>
+        <a href="https://scholar.google.com/citations?user=zmQrFU8AAAAJ"><i class="fa fa-brands fa-google-scholar"></i>
+        Google Scholar </a><br/>
     <i>Quantum Information Theory and Computing, Big Data and Machine Learning</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Photo By Marie-Lan Nguyen (User:Jastrow), 2009-02-28, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=6911343" src="@root/images/owl-of-athena.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Photo By Marie-Lan Nguyen (User:Jastrow), 2009-02-28, CC BY 2.5, https://commons.wikimedia.org/w/index.php?curid=6911343" src="@root/images/owl-of-athena.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
 </td>
 <td class="member">
     <a href="">
@@ -83,34 +70,6 @@ Just as barred owls expand their range in North America, Ph.D. students expand t
 
 <table class="member-list">
 <tr>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/barred-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/barred-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/barred-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/barred-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
 <td class="member">
     <a href="">
     <img alt="Your face here!" src="@root/images/barred-owl.jpg" height="150px" /><br />
@@ -142,27 +101,6 @@ Great horned owls are numerous and always on the hunt for opportunities.
     </a>
     <i>Your interests here!</i>
 </td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/great-horned-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/great-horned-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/great-horned-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
 </tr>
 </table>
 
@@ -174,7 +112,7 @@ What elf owls lack in size of knowledge they make up for in enthusiasm.
 <tr>
 <td class="member">
     <a href="https://www.linkedin.com/in/liam-ussery-688078279/">
-    <img alt="Liam Ussery" src="@root/images/elf-owl.jpg" height="150px" /><br />
+    <img alt="Liam Ussery" src="@root/images/liam-ussery.jpg" height="150px" /><br />
     Liam Ussery<br/>
     </a>
     <i>Deep Reinforcement Learning, Game AI</i>
@@ -186,26 +124,6 @@ What elf owls lack in size of knowledge they make up for in enthusiasm.
     </a>
     <i>Your interests here!</i>
 </td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/elf-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/elf-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
-<td class="member">
-    <a href="">
-    <img alt="Your face here!" src="@root/images/elf-owl.jpg" height="150px" /><br />
-    Your name here!<br/>
-    </a>
-    <i>Your interests here!</i>
-</td>
+
 </tr>
 </table>
