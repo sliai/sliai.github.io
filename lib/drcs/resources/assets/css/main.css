@@ -83,3 +83,12 @@ td.member {
   padding: 10px;
   vertical-align: top;
 }
+
+blockquote {
+  width: 95%;
+  align: center;
+  padding: 10px;
+  border: 1px solid black;
+  background: lightblue;
+  left-margin: 5%;
+}
