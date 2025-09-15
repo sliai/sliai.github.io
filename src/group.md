@@ -5,8 +5,7 @@ title: Chris Simpkins - Scrappy AI Research Group
 # Scrappy AI Research Group
 
 **scrappy**  *<font size="-1">adjective</font>*
-
-> having a strong, determined character, and willing to argue or fight for what you want.
+: having a strong, determined character, and willing to argue or fight for what you want.
 
 <table>
 <tr>

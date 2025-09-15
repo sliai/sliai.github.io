@@ -1,0 +1,77 @@
+---
+title: SLIAI CS 4850 Senior Research Project
+---
+
+# Fall 2025 CS 4850 Senior Research Project:
+# Reinforcement Learning for AI Game-Playing Agents
+
+> Full disclosure: my primary goal in supporting CS 4850 research projects is to identify and develop strong candidates for the PhD program.
+
+## Research Project Title
+
+Reinforcement Learning for AI Game-Playing Agents
+
+## Project Overview
+
+Write a reinforcement learning-based game playing agent that improves upon existing work and enter it in a competition such as [AI Areana](https://aiarena.net/) using DeepMind's [PySC2](https://github.com/google-deepmind/pysc2), or something like the new [Kaggle Game Arena](https://www.kaggle.com/blog/introducing-game-arena) (which is pretty new and sparse at the moment), or work towards a publishable result on a benchmark such as [Starcraft Multi-Agent Challenge V2](https://arxiv.org/abs/2212.07489).
+
+Depending on student interests and schedule, we may look for another competition, like the ones at AAMAS.  For example, see  [AAMAS 2024 Competitions](https://aamas2025.org/index.php/conference/program/competition-schedule/).  Or just try something novel with one or more of the games in the [Arcade Learning Environment](https://ale.farama.org/environments/complete_list/).
+
+## Preferred prerequisite knowledge:
+
+Python, Numpy, Linux, AI, machine learning
+
+## Skills/Knowledge that students will learn:
+
+Python, Numpy, Linux, JAX, PyTorch, Keras, AI, machine learning, reinforcement learning, research, and writing.
+
+## Major Work, Milestones and Expected Outcome
+
+- Code that implements a game-playing agent
+- Code that collects performance metrics
+- Analyses of performance metrics
+- Research paper suitable for submission
+
+## Ideas For Final Systems / Deliverables To Develop:
+
+- Game-playing agent
+- Performance analyses
+- Submission-quality research paper
+
+## Recommended Team Size
+
+Two
+
+## Maximum Number of Teams Accepted For This Topic
+
+One
+
+## References/Tutorials For Project
+
+TBD
+
+## Project Publication and Procedure
+
+### 1.	Is this request in support of a research project?  If yes, will the students get credit when the research is published?
+
+Yes, and you will be an author!  I will help you write the paper and, most importantly, teach you how to write it.
+
+### 2.	Is a Non-Disclosure Agreement (NDA) required?
+
+No.
+
+### 3.	Are you available to meet with the students on a regular basis (schedule to be determined by you and the team) and provide feedback on student progress?
+
+Yes, and regular meetings will be required.  Ideally you will join my research lab's weekly meeting.  My ulterior motive is to identify strong candidates for the PhD program.
+
+### 4.	Do you want the student team to sign up for your project or would you prefer to interview them and select the team?
+
+I prefer to interview candidates.
+
+### 5.	May students apply to, and present this project to, C-Day at the end of the semester?
+
+Yes!  I will help you with the poster and demonstration, if applicable.
+
+## Contact Information
+
+Christopher.Simpkins@kennesaw.edu

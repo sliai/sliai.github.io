@@ -5,15 +5,14 @@ title: Chris Simpkins - Lab
 # Scrappy/Simpkins Lab for Interactive AI
 
 <center>
-    <img alt="SLIAI Group" src="@root/images/SLIAI-2025-04-25.jpeg" height="300px"/>
+    <img alt="SLIAI Group" src="@root/images/SLIAI-2025-04-25-600px.jpg" height="300px"/>
 </center>
 
 
 [https://github.com/SLIAI](https://github.com/sliai)
 
 **thrive**  *<font size="-1">verb</font>*
-
-> to grow or develop well or vigorously; to flourish; to prosper.
+: to grow or develop well or vigorously; to flourish; to prosper.
 
 We are interested in advancing a broad range of AI techniques, especially machine learning techniques, and applying them to important problems.  We are particularly interested in intelligent agents that interact with complex environments that may include other agents, human or artificial.
 
