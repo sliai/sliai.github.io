@@ -2,12 +2,11 @@
 title: SLIAI CS 4850 Senior Research Project
 ---
 
+<center>
+# DRAFT
 # Spring 2026 CS 4850 Senior Research Project:
 # Reinforcement Learning on Supply Chain Dynamic Policy Development
-
-## Research Project Title
-
-Reinforcement Learning on Supply Chain Dynamic Policy Development
+</center>
 
 ## Project Overview
 

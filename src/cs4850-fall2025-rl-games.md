@@ -2,14 +2,12 @@
 title: SLIAI CS 4850 Senior Research Project
 ---
 
+<center>
 # Fall 2025 CS 4850 Senior Research Project:
 # Reinforcement Learning for AI Game-Playing Agents
+</center>
 
 > Full disclosure: my primary goal in supporting CS 4850 research projects is to identify and develop strong candidates for the PhD program.
-
-## Research Project Title
-
-Reinforcement Learning for AI Game-Playing Agents
 
 ## Project Overview
 
