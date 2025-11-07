@@ -1,3 +1,4 @@
+
 ---
 title: Chris Simpkins - Scrappy AI Research Group
 ---
@@ -46,7 +47,7 @@ The wisest of the owls.  These owls have earned the pinnacle of academic degrees
 <i>AI and Machine Learning</i>
 </td>
     <td class="member">
-        <a href="https://www.linkedin.com/in/john-c-0a02951/" target="_blank">
+        <a href="https://www.mit.edu/~jo15811/" target="_blank">
         <img alt="John Cortese, Ph.D." src="@root/images/john-cortese-head.jpeg" height="150px" /><br />
         John Cortese</a> <br/>
         <a href="https://scholar.google.com/citations?user=zmQrFU8AAAAJ"><i class="fa fa-brands fa-google-scholar"></i>
