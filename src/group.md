@@ -44,7 +44,7 @@ The wisest of the owls.  These owls have earned the pinnacle of academic degrees
         <img alt="Christopher Simpkins, Ph.D." src="@root/images/christopher-simpkins-headshot.jpg" height="150px" /><br/>
         Christopher Simpkins<br/>
     </a>
-<i>AI and Machine Learning</i>
+<i>AI, Reinforcement Learning, Deep Learning</i>
 </td>
     <td class="member">
         <a href="https://www.mit.edu/~jo15811/" target="_blank">
@@ -71,6 +71,13 @@ Just as barred owls expand their range in North America, Ph.D. students expand t
 <table class="member-list">
 <tr>
 <td class="member">
+    <a href="https://nicholasthodge.github.io/">
+    <img alt="Nicholas Hodge" src="@root/images/nicholas-hodge.jpeg" height="150px" /><br />
+    Nicholas Hodge<br/>
+    </a>
+    <i>Multiagent Reinforcement Leanring, NLP</i>
+</td>
+<td class="member">
     <a href="">
     <img alt="Your face here!" src="@root/images/barred-owl.jpg" height="150px" /><br />
     Your name here!<br/>
@@ -88,12 +95,12 @@ Great horned owls are numerous and always on the hunt for opportunities.
 <table class="member-list">
 <tr>
 <td class="member">
-    <a href="https://nicholasthodge.github.io/">
-    <img alt="Nicholas Hodge" src="@root/images/nicholas-hodge.jpeg" height="150px" /><br />
-    Nicholas Hodge<br/>
+    <a href="https://www.linkedin.com/in/liam-ussery-688078279/">
+    <img alt="Liam Ussery" src="@root/images/liam-ussery.jpg" height="150px" /><br />
+    Liam Ussery<br/>
     </a>
-    <i>Multi-Agent Reinforcement Leanring, NLP</i>
-</td>
+    <i>Deep Reinforcement Learning, Game AI</i>
+  </td>
 <td class="member">
     <a href="">
     <img alt="Your face here!" src="@root/images/great-horned-owl.jpg" height="150px" /><br />
@@ -111,15 +118,32 @@ What elf owls lack in size of knowledge they make up for in enthusiasm.
 <table class="member-list">
 <tr>
 <td class="member">
-    <a href="https://www.linkedin.com/in/liam-ussery-688078279/">
-    <img alt="Liam Ussery" src="@root/images/liam-ussery.jpg" height="150px" /><br />
-    Liam Ussery<br/>
-    </a>
-    <i>Deep Reinforcement Learning, Game AI</i>
-  </td>
-<td class="member">
     <a href="">
     <img alt="Your face here!" src="@root/images/elf-owl.jpg" height="150px" /><br />
+    Your name here!<br/>
+    </a>
+    <i>Your interests here!</i>
+</td>
+
+</tr>
+</table>
+
+### Elf Owl Babies (High Schoolers)
+
+Elf owl babies are eager to develop the skills they need to strike out on their own.
+
+<table class="member-list">
+<tr>
+<td class="member">
+    <a href="">
+    <img alt="John Leith" src="@root/images/elf-owl-baby.jpg" height="150px" /><br />
+    John Leith<br/> (Wheeler Magnet School)<br/>
+    </a>
+    <i>AI Programming</i>
+</td>
+<td class="member">
+    <a href="">
+    <img alt="Your face here!" src="@root/images/elf-owl-baby.jpg" height="150px" /><br />
     Your name here!<br/>
     </a>
     <i>Your interests here!</i>
