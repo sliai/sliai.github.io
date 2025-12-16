@@ -8,9 +8,9 @@ title: SLIAI Projects
 
 - Value Alignment via Machine Theory of Mind
 
-## Reinforcement Learning for Embodied Agents
+## Reinforcement Learning
 
-- Model-Based Reinforcement Learning: Gaps and Opportunities
+- Model-Based Reinforcement Learning
 - Offline Reinforcement Learning
 
 ## Miscellaneous

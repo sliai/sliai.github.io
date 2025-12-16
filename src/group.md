@@ -1,4 +1,3 @@
-
 ---
 title: Chris Simpkins - Scrappy AI Research Group
 ---
@@ -136,7 +135,7 @@ Elf owl babies are eager to develop the skills they need to strike out on their 
 <tr>
 <td class="member">
     <a href="">
-    <img alt="John Leith" src="@root/images/elf-owl-baby.jpg" height="150px" /><br />
+    <img alt="John Leith" src="@root/images/john-leith.jpg" height="150px" /><br />
     John Leith<br/> (Wheeler Magnet School)<br/>
     </a>
     <i>AI Programming</i>
