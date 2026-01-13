@@ -32,6 +32,10 @@ and any technique that is well-suited to a particular problem.  We choose our te
 
 In part, we want to continue the work of the lab the PI came from ([Charles Isbell at Georgia Tech](https://faculty.cc.gatech.edu/~isbell/iai/)), to build AI that is "not just intelligent like people, but intelligent *with* people."
 
+## Events
+
+- [CCSE Research Showcase 2026-01-15](events/ccse-research-showcase-2026-01-15.html)
+
 ## Collaborators
 
 Because we seek to apply AI to problems in a variety of domains, our work is necessarily interdisciplinary.  Please contact Professor Simpkins at [`christopher.simpkins@kennesaw.edu`](mailto:christopher.simpkins@kennesaw.edu) if you are interested in discussing opportunities.
