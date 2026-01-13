@@ -27,6 +27,13 @@ title: SLIAI
 
 ![](value-alignment-tom-slide.png){width="90%"}
 
+<font size="+2">
+
+> "Thinking is nothing but acting in an imagined space."
+>
+> -- Konrad Lorenz via Bernhard Schölkopf
+
+</font>
 
 # Ends don't justify means: learning action restrictions from a teacher
 
