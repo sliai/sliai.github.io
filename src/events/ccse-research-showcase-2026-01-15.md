@@ -39,10 +39,11 @@ title: SLIAI
 
 <font size="+2">
 
-- Teacher agent is blue.
-- Studenta agent is green.
+- Agent in red demonstrates "optimal" path to goal.
+- Student agent is blue.
 - Shaded area is "restricted."
-- Student learns not to enter restricted area by observing teacher, even if it results in suboptimal goal attainment.
+- Student learned from observations of a teacher who avoided restricted area.
+- Student avoids restricted area, even if it results in suboptimal goal attainment.
 
 </font>
 
