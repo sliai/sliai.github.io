@@ -49,3 +49,27 @@ title: SLIAI
 
 
 ![](student-teacher-action-restriction.gif){height="480"}
+
+# Evaluating Advancements in Reinforcement Learning in Video Games
+
+<table>
+<tr>
+<th>Untrained boxer agent</th>
+<th>Trained boxer agent</th>
+</tr>
+
+<tr>
+<td>
+<video width="640" controls>
+  <source src="boxer-random.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</td>
+<td>
+<video width="640" controls>
+  <source src="boxer-trained.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</td>
+</tr>
+</table>
