@@ -27,7 +27,7 @@ title: SLIAI
 
 ![](value-alignment-tom-slide.png){width="90%"}
 
-<font size="+2">
+ <font size="+2">
 
 > "Thinking is nothing but acting in an imagined space."
 >
@@ -48,7 +48,3 @@ title: SLIAI
 
 
 ![](student-teacher-action-restriction.gif){height="480"}
-
-![](first-deviations.png){height="480"}
-
-![](student-successes.png){height="480"}
