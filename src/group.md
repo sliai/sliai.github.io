@@ -28,10 +28,6 @@ Resources:
 
 ## Current
 
-**We are looking for students!**
-
-At present we have funding for one Ph.D. student.  For everyone else for the time being, we can only pay you with mentoring, training, and the deep satisfaction of knowing you're making a positive difference in the world.
-
 ### Owls of Athena
 
 The wisest of the owls.  These owls have earned the pinnacle of academic degrees, the doctorate.
