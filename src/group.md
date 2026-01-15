@@ -134,12 +134,6 @@ Elf owl babies are eager to develop the skills they need to strike out on their 
 <table class="member-list">
 <tr>
 <td class="member">
-    <a href="">
-    <img alt="John Leith" src="@root/images/john-leith.jpg" height="150px" /><br />
-    John Leith<br/> (Wheeler Magnet School)<br/>
-    </a>
-    <i>AI Programming</i>
-</td>
 <td class="member">
     <a href="">
     <img alt="Your face here!" src="@root/images/elf-owl-baby.jpg" height="150px" /><br />
