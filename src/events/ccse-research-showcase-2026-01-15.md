@@ -5,6 +5,14 @@ title: SLIAI
 <h1 align="center">Scrappy/Simpkins Lab for Interactive AI</h1>
 <h2 align="center">CCSE Research Showcase 2026-01-15</h2>
 
+
+
+</font>
+
+![](value-alignment-intelligent-agents-slide.png){width="90%"}
+
+ <font size="+2">
+
 # Vision: Competent, Flexible, Human-Aligned Intelligent Autonomous Agents
 
 <font size="+2">
@@ -19,19 +27,13 @@ title: SLIAI
     - Decision making
     - Action
 
-> Imagine an autonomous intelligent agent that learns "how to behave" by watching thousands of hours of movies.
-
-</font>
-
-![](value-alignment-intelligent-agents-slide.png){width="90%"}
-
-![](value-alignment-tom-slide.png){width="90%"}
-
- <font size="+2">
 
 > "Thinking is nothing but acting in an imagined space."
 >
 > -- Konrad Lorenz via Bernhard Schölkopf
+
+
+> Imagine an autonomous intelligent agent that learns "how to behave" by watching thousands of hours of movies.
 
 </font>
 
