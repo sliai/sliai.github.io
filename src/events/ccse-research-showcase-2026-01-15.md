@@ -20,18 +20,18 @@ title: SLIAI
 - Multiagent reinforcement learning
 - Multiple goal reinforcement learning
 - Model-based reinforcement learning
+
+> "Thinking is nothing but acting in an imagined space."
+>
+> -- Konrad Lorenz via Bernhard Schölkopf
+
+
 - Offline reinforcement learning
 - Top-to-bottom layered autonomous intelligent agent architecture
     - Perception
     - Reasoning
     - Decision making
     - Action
-
-
-> "Thinking is nothing but acting in an imagined space."
->
-> -- Konrad Lorenz via Bernhard Schölkopf
-
 
 > Imagine an autonomous intelligent agent that learns "how to behave" by watching thousands of hours of movies.
 
