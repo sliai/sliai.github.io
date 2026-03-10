@@ -1,5 +1,6 @@
 argslib==2.1.0
 ark==7.7.0
+bibtexparser==2.0.0b9
 colorama==0.4.6
 ibis==3.3.0
 Jinja2==3.1.5
