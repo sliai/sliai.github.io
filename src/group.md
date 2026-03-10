@@ -74,6 +74,13 @@ Just as barred owls expand their range in North America, Ph.D. students expand t
 </td>
 <td class="member">
     <a href="">
+    <img alt="Tony Derado" src="@root/images/barred-owl.jpg" height="150px" /><br />
+    Tony Derado<br/>
+    </a>
+    <i>Simulation, Autonomous Agents, Robotics</i>
+</td>
+<td class="member">
+    <a href="">
     <img alt="Your face here!" src="@root/images/barred-owl.jpg" height="150px" /><br />
     Your name here!<br/>
     </a>
@@ -114,6 +121,13 @@ What elf owls lack in size of knowledge they make up for in enthusiasm.
 <tr>
 <td class="member">
     <a href="">
+    <img alt="Vlad Kuskov" src="@root/images/vlad-kuskov.jpg" height="150px" /><br />
+    Vlad Kuskov<br/>
+    </a>
+    <i>Explainable AI, Intelligent Tutoring</i>
+</td>
+<td class="member">
+    <a href="">
     <img alt="Your face here!" src="@root/images/elf-owl.jpg" height="150px" /><br />
     Your name here!<br/>
     </a>
@@ -130,6 +144,12 @@ Elf owl babies are eager to develop the skills they need to strike out on their 
 <table class="member-list">
 <tr>
 <td class="member">
+    <a href="https://www.westminster.net/">
+    <img alt="Charlotte Woodrum" src="@root/images/elf-owl-baby.jpg" height="150px" /><br />
+    Charlotte Woodrum<br/>
+    </a>
+    <i>AI Engineering, Autonomous Agents, Robotocs</i>
+</td>
 <td class="member">
     <a href="">
     <img alt="Your face here!" src="@root/images/elf-owl-baby.jpg" height="150px" /><br />
@@ -137,6 +157,5 @@ Elf owl babies are eager to develop the skills they need to strike out on their 
     </a>
     <i>Your interests here!</i>
 </td>
-
 </tr>
 </table>
