@@ -74,7 +74,7 @@ Just as barred owls expand their range in North America, Ph.D. students expand t
 </td>
 <td class="member">
     <a href="">
-    <img alt="Tony Derado" src="@root/images/barred-owl.jpg" height="150px" /><br />
+    <img alt="Tony Derado" src="@root/images/tony-derado.jpg" height="150px" /><br />
     Tony Derado<br/>
     </a>
     <i>Simulation, Autonomous Agents, Robotics</i>
