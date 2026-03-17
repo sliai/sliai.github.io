@@ -145,10 +145,10 @@ Elf owl babies are eager to develop the skills they need to strike out on their 
 <tr>
 <td class="member">
     <a href="https://www.westminster.net/">
-    <img alt="Charlotte Woodrum" src="@root/images/elf-owl-baby.jpg" height="150px" /><br />
+    <img alt="Charlotte Woodrum" src="@root/images/charlotte-woodrum.jpg" height="150px" /><br />
     Charlotte Woodrum<br/>
     </a>
-    <i>AI Engineering, Autonomous Agents, Robotocs</i>
+    <i>AI Engineering, Autonomous Agents, Robotics</i>
 </td>
 <td class="member">
     <a href="">
