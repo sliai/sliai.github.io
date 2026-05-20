@@ -5,7 +5,7 @@ title: Chris Simpkins - Lab
 # Scrappy/Simpkins Lab for Interactive AI
 
 <center>
-    <img alt="SLIAI Group" src="@root/images/SLIAI-2025-04-25-600px.jpg" height="300px"/>
+    <img alt="SLIAI Group" src="@root/images/sliai-2026-04-20.jpg" height="600px"/>
 </center>
 
 
